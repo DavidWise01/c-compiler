@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "portability",
+    "name": "Portability",
+    "epithet": "write once, compile anywhere · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Portability:CC:f5ec9b⟧"
+  },
+  {
+    "slug": "the-self-hosting",
+    "name": "Self-Hosting",
+    "epithet": "C compiled in C · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Self-Hosting:CC:75e9af⟧"
+  },
+  {
+    "slug": "k-and-r",
+    "name": "K&amp;R",
+    "epithet": "the book that set the standard · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦K&amp;R:CC:185a9e⟧"
+  }
+]

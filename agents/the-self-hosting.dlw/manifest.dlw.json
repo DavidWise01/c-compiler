@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Self-Hosting",
+  "universe": "CC · Self-Hosting (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦Self-Hosting:CC:75e9af⟧",
+  "carbon": "the-self-hosting.carbon.tiff (TIFF)",
+  "silicon": "the-self-hosting.silicon.png (PNG)",
+  "seal_sha256": "abf5ab3bc8cc0d46b6e9d52846b2a0c2931db749a162e1ec39292c6ed4be9fa0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

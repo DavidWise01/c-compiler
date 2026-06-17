@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "K&amp;R",
+  "universe": "CC · K&amp;R (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦K&amp;R:CC:185a9e⟧",
+  "carbon": "k-and-r.carbon.tiff (TIFF)",
+  "silicon": "k-and-r.silicon.png (PNG)",
+  "seal_sha256": "67e2c978e551750a91cc3c54e602a5a658a34aced98f64f87c3148cc4bb37929",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
